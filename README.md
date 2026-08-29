@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Pedro 👋
 
-<!--
-**HexIntuition/HexIntuition** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently building my skills in IT and cybersecurity through hands-on learning and continuous practice.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in IT, cybersecurity, networking, and technical support
+- 🐧 Learning Linux and command-line tools
+- 🌐 Building knowledge in networking and troubleshooting
+- 🔐 Exploring cybersecurity and defensive security concepts
+- 📚 Focused on practical learning and continuous improvement
+
+## Certifications
+
+- Google Cybersecurity Professional Certificate
+- Cisco Introduction to Cybersecurity
+- Cisco Linux Unhatched
+
+## Projects
+
+Projects coming soon.
