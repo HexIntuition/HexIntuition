@@ -1,14 +1,12 @@
-# Hi, I'm Pedro 👋
+# Pedro Reyes
 
-I'm currently building my skills in IT and cybersecurity through hands-on learning and continuous practice.
+IT & Cybersecurity learner focused on practical skills, troubleshooting, networking, Linux, and security.
 
-## About Me
+Currently building hands-on experience through labs, technical practice, and real-world problem solving.
 
-- 💻 Interested in IT, cybersecurity, networking, and technical support
-- 🐧 Learning Linux and command-line tools
-- 🌐 Building knowledge in networking and troubleshooting
-- 🔐 Exploring cybersecurity and defensive security concepts
-- 📚 Focused on practical learning and continuous improvement
+## Skills & Interests
+
+`IT Support` `Networking` `Linux` `Cybersecurity` `Troubleshooting`
 
 ## Certifications
 
@@ -18,4 +16,4 @@ I'm currently building my skills in IT and cybersecurity through hands-on learni
 
 ## Projects
 
-Projects coming soon.
+Coming soon.
