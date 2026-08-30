@@ -16,4 +16,8 @@ Currently building hands-on experience through labs, technical practice, and rea
 
 ## Projects
 
-Coming soon.
+### [IT Support Troubleshooting Lab](https://github.com/HexIntuition/IT-Support-Troubleshooting-Lab)
+
+Hands-on IT support lab featuring four simulated troubleshooting scenarios involving IP configuration, DNS, routing, and web services.
+
+**Skills:** TCP/IP · DNS · Routing · Linux CLI · Troubleshooting · Technical Documentation
