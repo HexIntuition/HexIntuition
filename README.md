@@ -22,7 +22,7 @@ Five simulated Windows help desk scenarios covering DNS resolution, Print Spoole
 
 **Skills:** Windows · DNS · Outlook · NTFS Permissions · SMB · Command Line · Troubleshooting · Technical Documentation
 
-### IT Support Troubleshooting Lab
+### [IT Support Troubleshooting Lab](https://github.com/HexIntuition/IT-Support-Troubleshooting-Lab)
 
 Four simulated troubleshooting scenarios involving IP configuration, DNS, routing, and web services.
 
