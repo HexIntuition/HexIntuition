@@ -1,12 +1,12 @@
 # Pedro Reyes
 
-IT & Cybersecurity learner focused on practical skills, troubleshooting, networking, Linux, and security.
+Bilingual IT Support professional focused on troubleshooting, networking, Windows, Linux, and technical support.
 
-Currently building hands-on experience through labs, technical practice, and real-world problem solving.
+Building hands-on experience through documented labs, practical troubleshooting, and customer-facing technical support.
 
 ## Skills & Interests
 
-`IT Support` `Networking` `Linux` `Cybersecurity` `Troubleshooting`
+`IT Support` `Windows` `Networking` `Linux` `Cybersecurity` `Troubleshooting`
 
 ## Certifications
 
@@ -16,8 +16,14 @@ Currently building hands-on experience through labs, technical practice, and rea
 
 ## Projects
 
-### [IT Support Troubleshooting Lab](https://github.com/HexIntuition/IT-Support-Troubleshooting-Lab)
+### [Windows Help Desk Lab](https://github.com/HexIntuition/Windows-Help-Desk-Lab)
 
-Hands-on IT support lab featuring four simulated troubleshooting scenarios involving IP configuration, DNS, routing, and web services.
+Five simulated Windows help desk scenarios covering DNS resolution, Print Spooler troubleshooting, Outlook offline mode, NTFS permissions, and SMB shared resources.
+
+**Skills:** Windows · DNS · Outlook · NTFS Permissions · SMB · Command Line · Troubleshooting · Technical Documentation
+
+### IT Support Troubleshooting Lab
+
+Four simulated troubleshooting scenarios involving IP configuration, DNS, routing, and web services.
 
 **Skills:** TCP/IP · DNS · Routing · Linux CLI · Troubleshooting · Technical Documentation
