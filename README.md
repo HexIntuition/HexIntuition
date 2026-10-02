@@ -16,6 +16,12 @@ Building hands-on experience through documented labs, practical troubleshooting,
 
 ## Projects
 
+### [Minecraft Crossplay Homelab](https://github.com/HexIntuition/Minecraft-Crossplay-Homelab)
+
+Built and secured a self-hosted Minecraft Java/Bedrock server on Ubuntu Server using Docker, Crafty Controller, Paper, Geyser, Floodgate, Tailscale, and Playit. Troubleshot networking, Docker port conflicts, YAML configuration, persistent storage, and crossplay compatibility.
+
+**Skills:** Linux · Docker · Networking · SSH · UFW · Tailscale · Troubleshooting · Security Hardening · Technical Documentation
+
 ### [Windows Help Desk Lab](https://github.com/HexIntuition/Windows-Help-Desk-Lab)
 
 Five simulated Windows help desk scenarios covering DNS resolution, Print Spooler troubleshooting, Outlook offline mode, NTFS permissions, and SMB shared resources.
